@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> "This repo is now in 'Blue Screen' mode—archived and frozen in time!"
+
 # Microsoft JSON Web Token Extractor
 
 I have created a small C# project to extract JSON Web Tokens from memory without dumping anything on disk to avoid detection by Endpoint Detection and Response.
